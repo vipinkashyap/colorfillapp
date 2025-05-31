@@ -1,6 +1,7 @@
 # Color Fill App
 
 
+
 ## Inspiration
 I watched a lady on a Jetblue flight,  use a color by number app on her iphone. This is the first time, I had seen one like that
 
@@ -23,6 +24,14 @@ As a flutter developer, I tried to replicate this with a sample image loaded fro
 
 
 The simplest thing I'd suggest trying is to tweak the value of the '**threshold**' variable and you could try this on various image to see how you could better it
+
+
+### Images
+Original and Regions Detected            |  Rendered Fillable Image
+:-------------------------:|:-------------------------:
+![image](https://github.com/user-attachments/assets/5d2f784f-b4e1-44ec-9d70-cbda2dd893e2) | ![image](https://github.com/user-attachments/assets/fc6f8908-c01a-4c8a-a047-62f3181dae36)
+
+
 
 
 ### Regrets
