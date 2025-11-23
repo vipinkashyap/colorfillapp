@@ -3,9 +3,9 @@
 
 
 ## Inspiration
-I watched a lady on a Jetblue flight,  use a color by number app on her iphone. This is the first time, I had seen one like that
+I watched a person on a Jetblue flight,  use a color by number app on their iphone. This is the first time, I had seen one like that
 
-The color on long tap beatifully spilled into the numbered region. And these were complex paintings as well, it wasn't just one color but the split was unique enough to accomodate complex gradients and shades
+The color(on long tap)spilled into the numbered region. And these were complex paintings as well, it wasn't just one color but the split was unique enough to accomodate complex gradients and shades
 
 
 ### Flow breakdown
